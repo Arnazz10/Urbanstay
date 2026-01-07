@@ -1,0 +1,15 @@
+node_modules
+.next
+.turbo
+.env
+.env.local
+.env.*.local
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+/.vscode
+/.idea
+/supabase/.temp
+*.log
+
+
